@@ -13,6 +13,7 @@ and apps like Spreed—and run some small user studies to test its effectiveness
 - When a sentence has more than 10 words, the speed is lower and there is "long sentence warning" for users.
 
 ## Example
+![](testing_files/example.gif)
 
 ## Reference
 CSC-207 Project from Sam Rebelsky 2019 Spring.
